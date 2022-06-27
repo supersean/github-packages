@@ -1,5 +1,8 @@
 {
   "name": "@supersean/github-packages",
+  "publishConfig": {
+    "@supersean:registry":"https://npm.pkg.github.com"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
